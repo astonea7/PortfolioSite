@@ -1,0 +1,49 @@
+html{
+	background-color: #68c6f7;}
+header {
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	margin: 0px;
+	padding: 0px;
+	height: 78px;
+	background-color: #efefef;
+	width: 100%;}
+title {
+	position: center;
+	background-color: #68c6f7;}
+h1{
+	margin: 1px;
+	left: 40%;
+	height: 8%;
+	width: 19%;
+	top: 0px;
+	position: fixed;
+	background-color: #68c6f7;
+	text-align: center;
+	font-family: Times;}
+
+h2 {
+	text-align: center;}
+
+h2 {
+	postion: relative;}
+h3 {
+	postion: relative;}
+li {
+	position: relative;}
+p {
+	position: relative;}
+blockquote {
+	position: fixed;
+	top: 100px;
+	float: right;
+	width: 275px;
+	font-size: 130%;
+	font-style: italic;
+	font-family: Georgia, Times, serif;
+	margin: 0px 0px 10px 10px;
+	padding: 10px;
+	border-top: 1px solid #665544;
+	border-bottom: 1px solid #665544;
+	color: #efefef;}
